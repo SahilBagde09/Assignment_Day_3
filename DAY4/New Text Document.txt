@@ -1,0 +1,8 @@
+class Assig1{
+	public static void main(String args[]){
+		int arr[] = {5, 4, 3, 9, 1, 7, 9};
+		for(int i=0; i<7; i++){
+			System.out.println(arr[i]);
+		}
+	}
+}
